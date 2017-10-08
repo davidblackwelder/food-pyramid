@@ -1,0 +1,77 @@
+* {
+	box-sizing: border-box;
+	padding: 10px;
+}
+
+body {
+	background-color: black;
+}
+
+/*Removes underline from links*/
+a {
+	text-decoration: none;
+}
+
+
+#title {
+	font-size: 40px;
+	color: white;
+	text-decoration: underline;
+	text-align: center;
+	width: 100%;
+	margin: auto;
+}
+
+.water {
+	border: solid;
+	border-color: rgb(0, 65, 70);
+	background-color: lightblue;
+	text-align: center;
+	width: 25%;
+	margin: auto;	
+}
+
+.fats {
+	border: solid;
+	border-color: rgb(0, 65, 70);
+	background-color: rgb(156, 97, 33);
+	text-align: center;
+	width: 40%;
+	margin: auto;	
+}
+
+.calcium {
+	border: solid;
+	border-color: rgb(0, 65, 70);
+	background-color: rgb(255, 0, 70);
+	text-align: center;
+	width: 55%;
+	margin: auto;
+}
+
+.grains {
+	border: solid;
+	border-color: rgb(0, 65, 70);
+	background-color: rgb(255, 187, 0);
+	text-align: center;
+	width: 70%;
+	margin: auto;
+}
+
+.protein {
+	border: solid;
+	border-color: rgb(0, 65, 70);
+	background-color: rgb(126, 225, 255);
+	text-align: center;
+	width: 85%;
+	margin: auto;
+}
+
+.fruits {
+	border: solid;
+	border-color: rgb(0, 65, 70);
+	background-color: rgb(0, 187, 128);
+	text-align: center;
+	width: 100%;
+	margin: auto;
+}
