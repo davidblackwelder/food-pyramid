@@ -12,6 +12,8 @@ a {
 	text-decoration: none;
 }
 
+/*w3c method for creating horizontal nav bar*/
+
 ul {
 	list-style-type: none;
 	margin: 0;
@@ -32,6 +34,7 @@ li a {
 	text-decoration: none;
 }
 
+/*Changes background color of links in list when mouse hovers over*/
 li a:hover {
 	background-color: #333333
 }
